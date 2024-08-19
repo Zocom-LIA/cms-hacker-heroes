@@ -365,3 +365,5 @@ FodyWeavers.xsd
 # VS History extension
 .vshistory
 *.vs
+cms-hackers-heroes/appsettings.json
+cms-hackers-heroes/cms-hackers-heroes.generated.sln
