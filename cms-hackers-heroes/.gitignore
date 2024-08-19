@@ -365,3 +365,6 @@ FodyWeavers.xsd
 # VS History extension
 .vshistory
 *.vs
+
+# adding appsettings.json since we got both Windows and Mac users.
+appsettings.json
